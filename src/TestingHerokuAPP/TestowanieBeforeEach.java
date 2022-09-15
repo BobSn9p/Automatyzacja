@@ -68,3 +68,4 @@ public class TestowanieBeforeEach {
         Thread.sleep(2000);
     }
 }
+// Test commita
